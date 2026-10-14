@@ -1,0 +1,5 @@
+Everything is working
+An error occurred
+The system is stable
+Another ERROR was found
+All systems normal
