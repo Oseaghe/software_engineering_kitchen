@@ -1,5 +1,5 @@
 
-# Software Engineering Lab
+# Software Engineering Kitchen
 
 A practical series exploring software engineering principles through
 small, working projects.
